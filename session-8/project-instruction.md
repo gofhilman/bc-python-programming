@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
 ### 1. Leaderboard
 
-Setelah versi dasar permainan selesai, kamu bisa menambahkan fitur Leaderboard untuk membuat permainan lebih kompetitif. Di awal permainan, minta pemain untuk memasukkan nama mereka. Setelah permainan berakhir, hitung skor berdasarkan jumlah percobaan yang digunakan untuk menebak angka dengan benar, misalnya jika pemain menebak dalam satu kali percobaan, skornya adalah 10; jika dua kali, skornya 9; dan seterusnya. Skor ini kemudian disimpan dalam sebuah daftar atau file, dan setelah semua pemain selesai bermain, tampilkan peringkat skor tertinggi agar semua bisa melihat siapa penebak terbaik.
+Setelah versi dasar permainan selesai, kamu bisa menambahkan fitur Leaderboard untuk membuat permainan lebih kompetitif. Di awal permainan, minta pemain untuk memasukkan nama mereka. Setelah permainan berakhir, hitung skor berdasarkan jumlah percobaan yang digunakan untuk menebak angka dengan benar, misalnya jika pemain menebak dalam satu kali percobaan, skornya adalah 10; jika dua kali, skornya 9; dan seterusnya. Skor ini kemudian disimpan dalam sebuah file, dan setelah semua pemain selesai bermain, tampilkan peringkat skor tertinggi agar semua bisa melihat siapa penebak terbaik.
 
 ### 2. Mode Komputer Menebak
 
