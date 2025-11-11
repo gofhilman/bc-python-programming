@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Introduction to Programming",
+        "abbreviation": "ItP",
+        "periods": [1, 3]
+    },
+    {
+        "name": "Advanced Course in Programming",
+        "abbreviation": "ACiP",
+        "periods": [2, 4]
+    },
+    {
+        "name": "Database Application",
+        "abbreviation": "DbApp",
+        "periods": [1, 2, 3, 4]
+    }
+]
